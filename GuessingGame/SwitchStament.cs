@@ -10,7 +10,7 @@ namespace GuessingGame
     {
         public static void SchoolSubjects()
         {
-            Console.WriteLine("We is your favoite school subject");
+            Console.WriteLine("\n\nWhat is your favoite school subject");
             
             var favoriteSubject = Console.ReadLine().ToLower();
 
