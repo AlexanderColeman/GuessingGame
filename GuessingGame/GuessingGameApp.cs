@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GuessingGame
 {
-    public class Method
+    public class GuessingGameApp
     {
         public static int getRandomNumber()
         {

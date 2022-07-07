@@ -1,3 +1,5 @@
 ﻿using GuessingGame;
 
-Method.GuessingGameLogic();
+//GuessingGameApp.GuessingGameLogic();
+
+SwitchStament.SchoolSubjects();
